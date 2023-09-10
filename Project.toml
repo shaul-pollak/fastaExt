@@ -1,0 +1,11 @@
+name = "fastaExt"
+uuid = "2e4aa663-30d4-4cca-9551-e2202ec38c0c"
+authors = ["pollak "]
+version = "0.1.0"
+
+[deps]
+Mmap = "a63ad114-7e13-5084-954f-fe012c677804"
+NaturalSort = "c020b1a1-e9b0-503a-9c33-f039bfc54a85"
+PackageCompiler = "9b87118b-4619-50d2-8e1e-99f35a4d4d9d"
+ProgressMeter = "92933f4c-e287-5a05-a399-4b506db050ca"
+StringViews = "354b36f9-a18e-4713-926e-db85100087ba"
