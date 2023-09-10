@@ -26,5 +26,5 @@ where rec1, rec2, etc. are headers (what appears after the ">" sign in the fasta
 
 if your fasta headers are formatted as ">genome#otherstuff" where a "#" character separates the genome name from the rest of the header, extracting all of the records belonging to a single genome can be achived by using
 ```bash
-genext prots.faa gen1 gen2 ...
+extgen prots.faa gen1 gen2 ...
 ```
